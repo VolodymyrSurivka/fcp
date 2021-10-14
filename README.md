@@ -1,2 +1,2 @@
 # fcp
-For automation testing
+For automation testing of the FCP project
